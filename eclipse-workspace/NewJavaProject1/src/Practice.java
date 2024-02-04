@@ -17,5 +17,5 @@ public class Practice
 		
 	}
 }
-
+//In this source code, I learned how to use Random class to get a random integer or a random float number, and limit them in a specific range.
 
